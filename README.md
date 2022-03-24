@@ -2,6 +2,8 @@
 
 Laravel pattern decision tree based on a redit post from Reindert Vetter adapted to our agency use.
 
+It's forked from [Reindert Vetter decision tree](https://github.com/reindert-vetter/pattern-decision-tree/edit/main/readme.md). All credits goes to him.
+
 ```mermaid
 flowchart TB
     verify{Do I need to verify?}
