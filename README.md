@@ -77,3 +77,12 @@ flowchart TB
 # Credits
 
 The diagram was created with [Mermaid](https://mermaid-js.github.io/mermaid/#/) and was forked from [Reindert Vetter decision tree](https://github.com/reindert-vetter/pattern-decision-tree/edit/main/readme.md). All credits goes to him.
+
+# We are hiring !
+
+If you are interested by that it means that you have all the philosophy to join our team.
+
+<div align="center">
+  <img src="https://cherrypulp.com/content/uploads/2020/01/-22" alt="Cherry Pulp office"/>
+  ⚡ if you're looking for a job, look at <a href="https://cherrypulp.com/fr/carriere/">cherrypulp.com/fr/carriere</a>
+</div>
