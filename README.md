@@ -4,7 +4,7 @@ Laravel pattern decision tree based on a redit post from Reindert Vetter adapted
 
 ```mermaid
 flowchart TB
-    verify{Verify?}
+    verify{Do I need to verify?}
     verify --> |Request| validate_field{"Validate field?"}
     validate_field --> |Yes| multiple{Multiple?}
     multiple --> |Yes| form_request1[Form Request]
